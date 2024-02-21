@@ -14,7 +14,7 @@ ___________________________________________________________
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/viperouss14/badges/micro) 
+![codewars]([https://www.codewars.com/users/viperouss14/badges/micro](https://www.codewars.com/users/viperouss14/badges/micro)) 
 __________________________________________________________
 > [!NOTE]
 > <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20"> Мои контакты:
