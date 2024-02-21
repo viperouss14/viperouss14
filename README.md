@@ -7,3 +7,4 @@
 > [!NOTE]
 > 📫 Мои контакты:
 > [Telegram](https://t.me/victor_us)
+> ![Лого telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)
