@@ -23,4 +23,4 @@ __________________________________________________________
 > ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-<-- Норм статья про оформление git https://habr.com/ru/articles/649363/ -->
+[//]: # (Норм статья про оформление git https://habr.com/ru/articles/649363/)
