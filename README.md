@@ -5,7 +5,7 @@
 **Сейчас я активно ищу работу**, [здесь моё резюме]().
 ___________________________________________________________
 <p align="center">
-👨‍💻 Languages and tools:\
+👨‍💻 Languages and tools: </br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ ___________________________________________________________
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![codewars](https://www.codewars.com/users/viperouss14/badges/small)
+![codewars](https://www.codewars.com/users/viperouss14/badges/small)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viperouss14&layout=compact)
 </p>
 __________________________________________________________
