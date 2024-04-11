@@ -16,7 +16,7 @@ ___________________________________________________________
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![codewars](https://www.codewars.com/users/viperouss14/badges/small)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/viperouss14)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viperouss14&layout=compact)
 __________________________________________________________
 > [!NOTE]
 > Мои контакты:
