@@ -17,6 +17,7 @@ ___________________________________________________________
 
 ![codewars](https://www.codewars.com/users/viperouss14/badges/small)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/viperouss14&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/viperouss14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 __________________________________________________________
 > [!NOTE]
 > Мои контакты:
