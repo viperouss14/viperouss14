@@ -16,9 +16,11 @@ ___________________________________________________________
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
 <p align="center">
   <img src="https://www.codewars.com/users/viperouss14/badges/small" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viperouss14&layout=compact" />
 </p>
