@@ -20,11 +20,10 @@ ___________________________________________________________
 <p align="center">
   <img src="https://www.codewars.com/users/viperouss14/badges/small" />
 </p>
-</br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viperouss14&layout=compact" />
 </p>
-</br>
+
 > [!NOTE]
 > Мои контакты:
 > [Telegram](https://t.me/victor_us)\
