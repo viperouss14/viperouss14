@@ -15,8 +15,8 @@ ___________________________________________________________
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![codewars](https://www.codewars.com/users/viperouss14/badges/small)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/viperouss14=anuraghazra&layout=compact)
+![codewars](https://www.codewars.com/users/viperouss14/badges/small)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/viperouss14&layout=compact)
 __________________________________________________________
 > [!NOTE]
 > Мои контакты:
