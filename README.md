@@ -24,7 +24,7 @@ ___________________________________________________________
   <img src="https://www.codewars.com/users/viperouss14/badges/small" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viperouss14&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viperouss14&layout=compact&theme=radical&border_color=2f80ed" />
 </p>
 
 > [!NOTE]
